@@ -4,10 +4,10 @@
 #
 
 # Source common libraries
-. /home/admin/scripts/lib/libfunctions.sh
-. /home/admin/scripts/lib/libsysinfo.sh
-. /home/admin/scripts/lib/libcolors.sh
-. /home/admin/scripts/lib/libnetwork.sh
+. lib/libfunctions.sh
+. lib/libsysinfo.sh
+. lib/libcolors.sh
+. lib/libnetwork.sh
 
 
 
